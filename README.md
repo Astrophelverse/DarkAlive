@@ -50,7 +50,8 @@ Deploy easily on:
 
 ## 📸 Preview
 
-![screenshot](c:\Users\Faruk\Videos\The Last Of Us\SUB\screenshot.pgn.png)  
+![screenshot](![Screenshot 2025-05-30 224526](https://github.com/user-attachments/assets/f2c108f2-fccb-4f54-a759-98b08664b428)
+)  
 
 
 ---
